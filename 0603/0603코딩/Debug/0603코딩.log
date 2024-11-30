@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\homersub\source\repos\0603코딩\0603코딩\소스.cpp(6,11): warning C4101: 'dan' :참조되지 않은 지역 변수입니다.
+  0603코딩.vcxproj -> C:\Users\homersub\source\repos\0603코딩\Debug\0603코딩.exe

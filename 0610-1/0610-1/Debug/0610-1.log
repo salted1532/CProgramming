@@ -1,0 +1,8 @@
+﻿  소스.cpp
+C:\Users\homersub\source\repos\0610-1\0610-1\소스.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\homersub\source\repos\0610-1\0610-1\소스.cpp(7,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\homersub\source\repos\0610-1\0610-1\소스.cpp(7,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\homersub\source\repos\0610-1\0610-1\소스.cpp(7,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\homersub\source\repos\0610-1\0610-1\소스.cpp(7,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+  LINK : C:\Users\homersub\source\repos\0610-1\Debug\0610-1.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  0610-1.vcxproj -> C:\Users\homersub\source\repos\0610-1\Debug\0610-1.exe

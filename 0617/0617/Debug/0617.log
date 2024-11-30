@@ -1,0 +1,5 @@
+﻿  0617.cpp
+C:\Users\homersub\source\repos\0617\0617\0617.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\homersub\source\repos\0617\0617\0617.cpp(33,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\homersub\source\repos\0617\0617\0617.cpp(5,7): warning C4101: 'name' :참조되지 않은 지역 변수입니다.
+  0617.vcxproj -> C:\Users\homersub\source\repos\0617\Debug\0617.exe
