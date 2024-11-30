@@ -1,0 +1,3 @@
+﻿  0527.cpp
+C:\Users\homersub\source\repos\0527\0527\0527.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  0527.vcxproj -> C:\Users\homersub\source\repos\0527\Debug\0527.exe
